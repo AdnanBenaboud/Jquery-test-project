@@ -3,7 +3,7 @@ $(".No").on("mouseover" , function () {
     var rand1 = Math.floor(Math.random()*2+1);
 
     var randwidth = Math.floor(Math.random()*500);
-    var randheight = Math.floor(Math.random()*500);
+    var randheight = Math.floor(Math.random()*300);
     if(rand1 === 1){    
         $(".Datebox").css("position" , "relative");
         $(".Datebox").css("left" , randwidth+"px");
