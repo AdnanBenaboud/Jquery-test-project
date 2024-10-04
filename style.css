@@ -1,0 +1,36 @@
+body{
+    background-color: #FFE1FF;
+    text-align: center;
+    font-size: 1.3rem;
+}
+
+.Datebox{
+    background-color: #7E60BF;
+    border: medium solid black;
+    width: 30%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.visibility{
+    visibility: hidden;
+}
+
+button{
+    background-color: #E4B1F0;
+    width: 70px;
+    height: 40px;
+    border-radius: 30%;
+    font-size: 1rem;
+
+}
+
+h3{
+    visibility: hidden;
+
+}
+
+.final{
+    font-size: 1.3rem;
+    text-align: center;
+}
